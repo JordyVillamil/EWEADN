@@ -300,7 +300,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 **Jordy Villamil**
 
 - GitHub: [@JordyVillamil](https://github.com/JordyVillamil)
-- LinkedIn: [Jordy Villamil](https://linkedin.com/in/jordy-villamil)
+- LinkedIn: [Jordy Villamil](https://www.linkedin.com/in/jordy-fabian-villamil-letrado-32378b232/)
 - Portfolio: [jordyvillamil.github.io](https://jordyvillamil.github.io)
 
 ---
