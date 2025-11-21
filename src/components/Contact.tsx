@@ -98,8 +98,7 @@ const Contact = () => {
     <section id="contact" className="py-24 bg-gradient-to-b from-black to-gray-900 relative overflow-hidden">
       {/* Floating Lines Background */}
       <div className="absolute inset-0 opacity-10">
-        <div className="absolute inset-0 opacity-30">
-                <FloatingLines
+    <FloatingLines
                   linesGradient={['#3b82f6', '#8b5cf6', '#ec4899']}
                   enabledWaves={['middle', 'bottom']}
                   lineCount={[8, 6]}
@@ -113,7 +112,6 @@ const Contact = () => {
                   parallaxStrength={0.15}
                   mixBlendMode="screen"
                 />
-              </div>
       </div>
 // ...existing code...
 
